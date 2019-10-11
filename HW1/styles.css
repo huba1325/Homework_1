@@ -1,0 +1,12 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  .special-card {
+      background-color: rgba(80, 80, 80, 0.6);
+      opacity: .7;
+    }
+    img {
+        border-radius: 50%;
+      }
+      .vis { margin-bottom: -20px }
